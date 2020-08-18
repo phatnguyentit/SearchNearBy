@@ -1,0 +1,10 @@
+D:\Personal_Data\TEST_PROJECT\GeoMap\bin\Debug\GeoMap.exe.config
+D:\Personal_Data\TEST_PROJECT\GeoMap\bin\Debug\GeoMap.exe
+D:\Personal_Data\TEST_PROJECT\GeoMap\bin\Debug\GeoMap.pdb
+D:\Personal_Data\TEST_PROJECT\GeoMap\obj\Debug\GeoMap.csprojAssemblyReference.cache
+D:\Personal_Data\TEST_PROJECT\GeoMap\obj\Debug\GeoMap.Form1.resources
+D:\Personal_Data\TEST_PROJECT\GeoMap\obj\Debug\GeoMap.Properties.Resources.resources
+D:\Personal_Data\TEST_PROJECT\GeoMap\obj\Debug\GeoMap.csproj.GenerateResource.cache
+D:\Personal_Data\TEST_PROJECT\GeoMap\obj\Debug\GeoMap.csproj.CoreCompileInputs.cache
+D:\Personal_Data\TEST_PROJECT\GeoMap\obj\Debug\GeoMap.exe
+D:\Personal_Data\TEST_PROJECT\GeoMap\obj\Debug\GeoMap.pdb
